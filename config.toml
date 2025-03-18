@@ -1,20 +1,20 @@
-# baseURL = "https://your_domain.com/"
-languageCode = "en"
-defaultContentLanguage = "en"
+# baseURL = "https://3dgedruckt.de/"
+languageCode = "de"
+defaultContentLanguage = "de"
 
-title = "Lynx"
-# copyright = "Copy, _right?_ :thinking_face:"
+title = "3DGedruckt.de - Bald ist es so weit!"
+#copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
   # name = "Your name here"
-  # headline = "An awesome person"
+  headline = "Bleib informiert über unsere Social Media Kanäle"
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
+    # { email = "mailto:media@3dgedruckt.de" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -30,7 +30,7 @@ disableKinds = ["taxonomy", "term"]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
+    { instagram = "https://instagram.com/3dgedruckt.de" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
@@ -50,7 +50,7 @@ disableKinds = ["taxonomy", "term"]
     # { steam = "https://steamcommunity.com/profiles/userid" },
     # { telegram = "https://t.me/username" },
     # { threads = "https://threads.com/username" },
-    # { tiktok = "https://tiktok.com/@username" },
+    { tiktok = "https://www.tiktok.com/@3dgedruckt.de" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
