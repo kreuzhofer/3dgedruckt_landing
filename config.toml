@@ -3,7 +3,7 @@ languageCode = "de"
 defaultContentLanguage = "de"
 
 title = "3DGedruckt.de - Bald ist es so weit!"
-#copyright = "Copy, _right?_ :thinking_face:"
+copyright = "&copy;2025, Daniel Kreuzhofer Media 3D - [Impressum](https://www.crosslink.io/impressum-anbieterkennzeichnung/)"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -54,9 +54,9 @@ disableKinds = ["taxonomy", "term"]
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
-    # { whatsapp = "https://wa.me/phone-number" },
+    { whatsapp = "https://wa.me/4915118971730" },
     # { x = "https://x.com/username" },
-    # { youtube = "https://youtube.com/username" },
+    { youtube = "https://www.youtube.com/channel/UCAc6APUiCcG5PD6utyscO4A" },
   ]
 
 [module]
