@@ -7,3 +7,13 @@
       rgba(252, 176, 69, 1) 100%
     );
   }
+
+.link-shop {
+  background: #ff7c01;
+  background: linear-gradient(
+    90deg,
+    rgb(255, 0, 0) 0%,
+    rgb(253, 81, 29) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+}

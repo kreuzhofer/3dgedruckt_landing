@@ -2,7 +2,7 @@
 languageCode = "de"
 defaultContentLanguage = "de"
 
-title = "3DGedruckt.de - Bald ist es so weit!"
+title = "3DGedruckt.de - Unser Shop öffnet am 15.09.2025!"
 copyright = "&copy;2025, Daniel Kreuzhofer Media 3D - [Impressum](https://www.crosslink.io/impressum-anbieterkennzeichnung/)"
 
 enableEmoji = true
@@ -15,7 +15,8 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     # { email = { href = "mailto:media@3dgedruckt.de", text="Schreib uns eine EMail" }},
-    { etsy = { href = "https://www.etsy.com/shop/3DGedrucktDE", text="Unser Shop" }},
+    # { etsy = { href = "https://www.etsy.com/shop/3DGedrucktDE", text="Unser Shop" }},
+    { shop = { href = "https://shop.3dgedruckt.de", text="Unser Shop" }},
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
